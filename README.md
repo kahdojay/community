@@ -25,7 +25,7 @@ You can become a contributor by:
 * Have a feature request? Or getting stuck somewhere? Open an issue:
   * [Amplify JS](https://github.com/aws-amplify/amplify-js/issues)
   * [Amplify CLI](https://github.com/aws-amplify/amplify-cli/issues)
-  * [Amplify Console](https://forums.aws.amazon.com/forum.jspa?forumID=314)  
+  * [Amplify Console](https://github.com/aws-amplify/amplify-console/issues)  
   * [AWS SDK for iOS](https://github.com/aws-amplify/aws-sdk-ios/issues)
   * [AWS SDK for Android](https://github.com/aws-amplify/aws-sdk-android/issues)
 * You can join the real-time conversation on our [Amplify Gitter](https://gitter.im/AWS-Amplify/Lobby)
